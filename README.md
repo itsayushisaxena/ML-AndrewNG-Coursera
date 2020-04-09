@@ -10,7 +10,7 @@ Week 1: Machine Learning Definition, Applications. Supervised Learning. Unsuperv
 
 Week 2: Linear Regression with Multiple Variables (Multiple features, Gradient Descent for Multiple Variables,Feature Scaling, Learning Rate, Feature and polynomial regression, Normal equation, Normal Equation Noninvertibility. Octave Installation. Octave/Matlab tutorial:Basic Operations, Moving Data Around, Computing on Data, Plotting Data, Control Statements: for, while, if statement, Vectorization.
 
-Week3:
+Week3:Logistic Regression
 
 
 Programming Assignments of the course are implemented in Python 3 and can be found here: 
