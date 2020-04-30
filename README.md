@@ -21,4 +21,3 @@ Week 4: Neural Networks: Non-linear Hypothesis,Neurons and the brain, Model Repr
 
 
 
-#Incomplete
