@@ -1,12 +1,13 @@
 # Stanford_ML_AndrewNG
 This repository contains the solution of popular ML course on coursera provided under the supervision of Stanford University, delivered by instructor Andrew NG.
-https://www.coursera.org/learn/machine-learning
+<b>https://www.coursera.org/learn/machine-learning</b>
 
 It contains the solution of quizzes and also contain the lecture content.
 
 
 ## Programming Assignments of the course are implemented in Python 3 and can be found here: 
 https://github.com/AyushiSaxena11/ML_AndrewNG_Python_Implementation
+
 #ML_AndrewNG_Python_Implementation
 
 This course contains:
