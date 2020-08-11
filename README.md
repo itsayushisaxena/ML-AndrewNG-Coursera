@@ -7,7 +7,8 @@ It contains the solution of quizzes and also contain the lecture content for qui
 
 ## Programming Assignments of the course are implemented in Python 3 and can be found here: 
 https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation
-###Name of Repo--ML_AndrewNG_Python_Implementation
+
+### Name of Repo--ML_AndrewNG_Python_Implementation
 
 ## Course Content
 This course contains:
@@ -32,3 +33,4 @@ Week 4: Neural   Networks: Non-linear Hypothesis,Neurons and the brain, Model Re
 
 
 
+:slightly_smiling_face:
