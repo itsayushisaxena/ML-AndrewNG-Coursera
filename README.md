@@ -14,6 +14,10 @@ https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation
 This course contains:
 
 * Week 1: Machine Learning Definition and its applications. Supervised Learning. Unsupervised Learning. Linear Regression with one variable. Model Representation, Cost function,Parameter learning-(Gradient Descent, Gradient Descent for Linear Regression and its Intuition. Important topics of Linear Algebra.
+* 
+* 
+* 
+* 
 
 
 
