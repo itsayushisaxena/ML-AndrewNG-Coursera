@@ -1,20 +1,27 @@
 # Stanford_ML_AndrewNG
 This repository contains the solution of popular ML course on coursera provided under the supervision of Stanford University, delivered by instructor Andrew NG.
-Andrew NG --  
+
+I AM HIGHLY GRATEFUL TO **Andrew NG Sir** FOR THE EXCELLENT COURSE.
+
+## Course:
 [Link of the course](http://ml-class.org)
 
-It contains the solution of quizzes and also contain the lecture content for quick reference.
+This repository contains the lecture content for quick reference.
 
-## Programming Assignments of the course are implemented in Python 3 and can be found here: 
-https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation
+The solutions for quizzes and assignments of every week are best available here:
+[Link for solutions](https://www.apdaga.com/2020/01/coursera-machine-learning-all-weeks-solutions-assignment-quiz.html)
 
+# Programming Assignments of the course are implemented in Python 3 and can be found here: 
+https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation -- Solved by [me](https://github.com/AyushiiSaxena)
 ### Name of Repo--ML_AndrewNG_Python_Implementation
 
-## Course Content
-This course contains:
 
-* Week 1: Machine Learning Definition and its applications. Supervised Learning. Unsupervised Learning. Linear Regression with one variable. Model Representation, Cost function,Parameter learning-(Gradient Descent, Gradient Descent for Linear Regression and its Intuition. Important topics of Linear Algebra.
-* 
+## What I learned:
+
+* During Week 1: 
+   Machine Learning Definition and its real-time applications, Supervised Learning( Regression, Classification and examples), Unsupervised               Learning(Clustering as example), Linear Regression with one variable, Model Representation. Cost function (well-explained with intuititons),  Contour plots, Parameter learning-(Gradient Descent, Gradient Descent for Linear Regression and its Intuition. Important topics of Linear Algebra.
+* During Week 2:
+
 * 
 
 
