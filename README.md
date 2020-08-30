@@ -20,23 +20,11 @@ https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation -- Solved by 
 
 * During Week 1: 
    Machine Learning Definition and its real-time applications, Supervised Learning( Regression, Classification and examples), Unsupervised               Learning(Clustering as example), Linear Regression with one variable, Model Representation. Cost function (well-explained with intuititons),  Contour plots, Parameter learning-(Gradient Descent, Gradient Descent for Linear Regression and its Intuition. Important topics of Linear Algebra.
+   
 * During Week 2:
-
-* 
-
+   Multivariate Linear Regression(Multiple features), Gradient Descent Algorithm for Multiple Variables, Feature Scaling, Learning Rate, Feature and polynomial regression, Normal equation, Normal Equation Noninvertibility. Octave Installation. Octave/Matlab tutorial: Basic Operations, Moving Data Around, Computing on Data, Plotting Data, Control Statements: for, while, if statement, Vectorization. But, I haven't practiced Octave Programming much. I have completed all my assignments in Python3.
 
 
-
-
-
-
-
-
-
-
-
-
-Week 2: Linear Regression with Multiple Variables (Multiple features, Gradient Descent for Multiple Variables,Feature Scaling, Learning Rate, Feature and polynomial regression, Normal equation, Normal Equation Noninvertibility. Octave Installation. Octave/Matlab tutorial:Basic Operations, Moving Data Around, Computing on Data, Plotting Data, Control Statements: for, while, if statement, Vectorization.
 
 Week 3:Logistic Regression--Classification,Hypothesis Representatio, Decision Boundary,Cost function and gradient descent,Advanced Optimization, Multiclass Classification: One-vs-all, Regularisation,Problem of Overfitting, Regularised Linear Regression, Regularised Logistic Regression, Programming Assignment
 
