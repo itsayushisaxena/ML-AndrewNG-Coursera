@@ -1,7 +1,7 @@
 # Stanford_ML_AndrewNG
-This repository contains the solution of popular ML course on coursera provided under the supervision of Stanford University, delivered by instructor Andrew NG.
+This repository contains the content and programming assignments of popular ML course on coursera provided under the supervision of Stanford University, delivered by instructor Andrew NG.
 
-I AM HIGHLY GRATEFUL TO **Andrew NG Sir** FOR THE EXCELLENT COURSE.
+I AM HIGHLY GRATEFUL TO **Andrew NG Sir** FOR THE EXCELLENT COURSE.:slightly_smiling_face:
 
 ## Course:
 [Link of the course](http://ml-class.org)
@@ -13,7 +13,7 @@ The solutions for quizzes and assignments of every week are best available here:
 
 # Programming Assignments of the course are implemented in Python 3 and can be found here: 
 https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation -- Solved by [me](https://github.com/AyushiiSaxena)
-### Name of Repo--ML_AndrewNG_Python_Implementation
+### Name of Repo: ML_AndrewNG_Python_Implementation
 
 
 ## What I learned:
@@ -44,4 +44,4 @@ Week 4: Neural   Networks: Non-linear Hypothesis,Neurons and the brain, Model Re
 
 
 
-:slightly_smiling_face:
+
