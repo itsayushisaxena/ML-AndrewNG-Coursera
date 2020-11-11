@@ -12,7 +12,7 @@ The solutions for quizzes and assignments of every week are best available here:
 [Link for solutions](https://www.apdaga.com/2020/01/coursera-machine-learning-all-weeks-solutions-assignment-quiz.html)
 
 # Programming Assignments of the course are implemented in Python 3 and can be found here: 
-https://github.com/AyushiiSaxena/ML_AndrewNG_Python_Implementation -- Solved by [me](https://github.com/AyushiiSaxena)
+https://github.com/itsayushisaxena/ML_AndrewNG_Python_Implementation -- Solved by [me](https://github.com/itsayushisaxena)
 ### Name of Repo: ML_AndrewNG_Python_Implementation
 
 
